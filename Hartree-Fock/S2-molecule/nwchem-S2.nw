@@ -1,0 +1,33 @@
+start sulfur2
+
+title "Diatomic Sulfur Electronic Structure Calculations"
+
+geometry units angstrom
+  S  2.0000    0.0000    0.0000
+  S  3.0000    0.0000    0.0000
+end
+
+basis
+  s library 3-21g
+end
+
+scf
+  uhf
+  sym off
+  tol2e 1e-8
+end
+
+dplot
+    title HF-Sulfur2
+    limitXYZ
+    -5.0 5.0 100
+    -5.0 5.0 100
+    -5.0 5.0 100
+    spin total
+    gaussian
+    output HF-Sulfur2.cube
+end
+
+task scf optimize
+
+task dplot
