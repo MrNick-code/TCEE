@@ -1,7 +1,7 @@
 # Tópicos em Cálculo de Estrutura Eletrônica REPO
 
 <img src="images/tab_peri.jpg" width=700 height=400>
-<p>BATISTA, Carolina. Tabela Periódica. Toda Matéria, [s.d.]. 2025</p>
+<p>Fonte: BATISTA, Carolina. Tabela Periódica. Toda Matéria, [s.d.]. 2025.</p>
 
 ## Trabalho 1: Densidade eletrônica pelo método de HF
 
