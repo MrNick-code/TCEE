@@ -5,6 +5,9 @@
 
 ## Trabalho 1: Densidade eletrônica pelo método de HF
 
+> [!WARNING]
+> A menos que evidenciado explicitamente, todos os valores desta secção (Trabalho 1) estarão em unidades atómicas.
+
 ### Moléculas Diatómicas
 
 > Molécula de Enxofre
