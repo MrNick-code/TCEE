@@ -1,0 +1,32 @@
+start Oxygen
+
+title "Oxygen Element Electronic Structure Calculations"
+
+geometry units angstrom
+  O 0.0 0.0 0.0
+end
+
+basis
+  o library 3-21g
+end
+
+scf
+  uhf
+  sym off
+  tol2e 1e-8
+end
+
+dplot
+    title HF-Oxygen
+    limitXYZ
+    -5.0 5.0 100
+    -5.0 5.0 100
+    -5.0 5.0 100
+    spin total
+    gaussian
+    output HF-Oxygen.cube
+end
+
+task scf optimize
+
+task dplot
