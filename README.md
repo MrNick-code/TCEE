@@ -10,7 +10,8 @@
 
 <img src="images/S_x.jpg" width=498 height=300> <img src="images/S_iso.jpg" width=498 height=300>
 
-<img src="images/orbitais1s2s2p.png" width=1000 height=300><p>Fonte: Menezes, V. M. d. (2008). Nanotubos de carbono interagindo com vitaminaS B3 e C: Um estudo de primeiros princípios.</p>
+<img src="images/orbitais1s2s2p.png" width=800 height=250><img src="images/orbital3p.jpg" width=200 height=250>
+<p>Fonte: Menezes, V. M. d. (2008). Nanotubos de carbono interagindo com vitaminaS B3 e C: Um estudo de primeiros princípios.</p>
 
 
 
