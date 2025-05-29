@@ -6,6 +6,12 @@
 
 > Molécula de Enxofre
 
+![S_x](images/S_x.jpg)
+
+![S_iso](images/S_iso.jpg)
+
+![S2_iso](images/S2_iso.jpg)
+
 
 > Monóxido de Carbono
 
@@ -13,6 +19,13 @@
 ### Moléculas Triatómicas
 
 > Dióxido de Nitrogênio
+
+![N_iso_zoom](images/N_iso_zoom.jpg)
+
+![O_iso](images/O_iso.jpg)
+
+![NO2_iso](images/NO2_iso.jpg)
+
 
 
 ### Moléculas Poliatómicas
