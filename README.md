@@ -6,9 +6,11 @@
 
 > Molécula de Enxofre
 
-![S_x](images/S_x.jpg) ![S_iso](images/S_iso.jpg)
-![orbitais](images/orbitais1s2s2p.png)
-Fonte: Menezes, V. M. d. (2008). Nanotubos de carbono interagindo com vitaminaS B3 e C: Um estudo de primeiros princípios.
+<img src="images/S_x.jpg" width=498 height=300> <img src="images/S_iso.jpg" width=498 height=300>
+
+<img src="images/orbitais1s2s2p.png" width=1000 height=300><p>Fonte: Menezes, V. M. d. (2008). Nanotubos de carbono interagindo com vitaminaS B3 e C: Um estudo de primeiros princípios.</p>
+
+
 
 ![S2_iso](images/S2_iso.jpg)
 
