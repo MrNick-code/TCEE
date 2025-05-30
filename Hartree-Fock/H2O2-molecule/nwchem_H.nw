@@ -1,0 +1,30 @@
+start H
+title "H-Hartree_Fock"
+
+geometry units angstrom
+    H 0.0 0.0 0.0
+end
+
+basis
+    H library aug-cc-pVDZ
+end
+
+scf
+    DOUBLET
+    thresh 1e-10
+end
+
+dplot
+    title H-density
+    limitXYZ
+    -5.0 5.0 100
+    -5.0 5.0 100
+    -5.0 5.0 100
+    spin total
+    gaussian
+    output H-density.cube
+end
+
+task scf optimize
+
+task dplot
