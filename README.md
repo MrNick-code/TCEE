@@ -58,7 +58,7 @@ Energia de Coesão:
 
 $E_{coesão} = {E_{ef}}_{CO} - ({E_{ef}}_{C} + {E_{ef}}_{O} = -112.756427738892 - (-37.598779037346 - -74.670628420287)$ 
 
-$E_{coesão} = -0.4870202812589923
+$E_{coesão} = -0.4870202812589923$
 
 Percebe-se que a energia da molécula é menor que a energia dos átomos individualmente, dessa forma a molécula é mais estável que os átomos de C e O sozinhos.
 
@@ -91,7 +91,7 @@ $$E_{coesão} = -1.26364771$$
 
 <img src="images/H_iso.png"> 
 
-${E_{ef}}_{H} = -0.499334315440
+${E_{ef}}_{H} = -0.499334315440$
 
 ÁTOMO OXIGÊNIO:
 
