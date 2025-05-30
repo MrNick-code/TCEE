@@ -82,6 +82,8 @@ ${E_{ef}}_{O} = -74.26744989$
 
 ![NO2_iso](images/NO2_iso.jpg)
 
+![no2-2d](images/Screenshot_20250530_091622.png)
+
 ${E_{ef}}_{NO2} = -204.04682048$
 
 $$E_{coesão} = E_{NO2} - \(E_N + 2E_O\)$$
