@@ -56,11 +56,10 @@ ${E_{ef}}_{CO} =  -112.756427738892$
 
 Energia de Coesão: 
 
-$$E_{coesão} = E_{ef}_{CO} - (E_{ef}_{C} + E_{ef}_{O}) $$
-
-$$E_{coesão} = -112.756427738892 - (-37.598779037346 - -74.670628420287)$$
-
+$$E_{coesão} = E_{CO} - \(E_C + 2E_O\)$$
+$$E_{coesão} = -112.756427738892 - \[-37.598779037346 + \(-74.26744989\)\]$$
 $$E_{coesão} = -0.4870202812589923$$
+
 
 Percebe-se que a energia da molécula é menor que a energia dos átomos individualmente, dessa forma a molécula é mais estável que os átomos de C e O sozinhos.
 
@@ -109,9 +108,9 @@ ${E_{ef}}_{H2O2} = -150.806020330003$
 
 Energia de Coesão: 
 
-$E_{coesão} = {E_{ef}}_{H2O2} - (2*{E_{ef}}_{H} + 2*{E_{ef}}_{O} = -150.806020330003 - (2*(-0.499334315440) - 2(-74.670628420287))$ 
-
-$E_{coesão} = -0.4660948585490132$
+$$E_{coesão} = E_{H2O2} - \(2E_H + 2E_O\)$$
+$$E_{coesão} = -150.806020330003 - \[2\(-0.499334315440\) + 2\(-74.26744989\)\]$$
+$$E_{coesão} = -0.4660948585490132$$
 
 Percebe-se que a energia da molécula é menor que a energia dos átomos individualmente, dessa forma a molécula é mais estável que os átomos de H e O sozinhos.
 
