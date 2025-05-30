@@ -8,6 +8,12 @@
 > [!WARNING]
 > A menos que evidenciado explicitamente, todos os valores desta sessão (Trabalho 1) estarão em unidades atómicas.
 
+A energia de Coesão é dada por
+
+$$
+E_{coesão} = E_{molécula} - \sum{E_{átomo}}
+$$
+
 ### Moléculas Diatómicas
 
 > Molécula de Enxofre
@@ -22,6 +28,7 @@ ${E_{ef}}_{S} =  -395.47186850$
 ![S2_iso](images/S2_iso.jpg)
 
 ${E_{ef}}_{S2} =   -791.05336569$
+
 
 > Monóxido de Carbono
 
