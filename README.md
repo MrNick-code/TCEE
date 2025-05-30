@@ -52,6 +52,8 @@ MOLÉCULA CO:
 
 <img src="images/CO_iso.png"> 
 
+<img src="images/CO_heat.png"> 
+
 ${E_{ef}}_{CO} =  -112.756427738892$
 
 Energia de Coesão: 
