@@ -6,7 +6,7 @@
 ## Trabalho 1: Densidade eletrônica pelo método de HF
 
 > [!WARNING]
-> A menos que evidenciado explicitamente, todos os valores desta sessão (Trabalho 1) estarão em unidades atómicas.
+> A menos que evidenciado explicitamente, todos os valores desta sessão (Trabalho 1) estarão em unidades atômicas.
 
 A energia de Coesão é dada por
 
