@@ -1,0 +1,29 @@
+start C
+title "C-Hartree_Fock"
+
+geometry units angstrom
+    C 0.0 0.0 0.0
+end
+
+basis
+    C library aug-cc-pVDZ
+end
+
+scf
+    thresh 1e-10
+end
+
+dplot
+    title C-density
+    limitXYZ
+    -5.0 5.0 100
+    -5.0 5.0 100
+    -5.0 5.0 100
+    spin total
+    gaussian
+    output C-density.cube
+end
+
+task scf optimize
+
+task dplot
