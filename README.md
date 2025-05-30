@@ -36,13 +36,19 @@ $$E_{coesão} = -0.10962869$$
 
 > Monóxido de Carbono
 
+ÁTOMO CARBONO:
+
 <img src="images/C_iso.png"> 
 
 ${E_{ef}}_{C} =  -37.598779037346$
 
+ÁTOMO OXIGENIO:
+
 <img src="images/O_iso.png"> 
 
 ${E_{ef}}_{O} =  -74.670628420287$
+
+MOLÉCULA CO:
 
 <img src="images/CO_iso.png"> 
 
@@ -81,15 +87,21 @@ $$E_{coesão} = -1.26364771$$
 
 > Água Oxigenada
 
+ÁTOMO HIDROGÊNIO:
+
 <img src="images/H_iso.png"> 
 
 ${E_{ef}}_{H} = -0.499334315440
+
+ÁTOMO OXIGÊNIO:
 
 <img src="images/O_iso.png"> 
 
 ${E_{ef}}_{O} = -74.670628420287$
 
-<img src="images/CO_iso.png"> 
+MOLÉCULA H2O2:
+
+<img src="images/H2O2_iso.png"> 
 
 ${E_{ef}}_{H2O2} = -150.806020330003$
 
