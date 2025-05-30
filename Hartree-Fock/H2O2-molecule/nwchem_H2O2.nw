@@ -1,0 +1,33 @@
+start H2O2
+title "H2O2-Hartree_Fock"
+
+geometry units angstrom
+    O 0.7247 0.0000 0.0000
+    O -0.7247 0.0000 0.0000
+    H 0.8233   -0.7000   -0.6676
+    H -0.8233   -0.6175    0.7446
+end
+
+basis
+    H library aug-cc-pVDZ
+    O library aug-cc-pVDZ
+end
+
+scf
+    thresh 1e-10
+end
+
+dplot
+    title H2O2-density
+    limitXYZ
+    -5.0 5.0 100
+    -5.0 5.0 100
+    -5.0 5.0 100
+    spin total
+    gaussian
+    output H2O2-density.cube
+end
+
+task scf optimize
+
+task dplot
