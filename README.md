@@ -20,10 +20,13 @@ $$
 
 <img src="images/S_x.jpg" width=498 height=300> <img src="images/S_iso.jpg" width=498 height=300>
 
+${E_{ef}}_{S} =  -395.47186850$
+
 <img src="images/orbitais1s2s2p.png" width=800 height=250><img src="images/orbital3p.jpg" width=200 height=250>
 <p>Fonte: Menezes, V. M. d. (2008). Nanotubos de carbono interagindo com vitaminaS B3 e C: Um estudo de primeiros princípios.</p>
 
-${E_{ef}}_{S} =  -395.47186850$
+<img src="images/phi-phi2.png" width=350 height=250>
+<p>LEVINE, IRA N. Physical Chemistry. 6 ed. Brooklyn, Nova Iorque: Higher Education, 2009, 681-693p.</p>
 
 ![S2_iso](images/S2_iso.jpg)
 
