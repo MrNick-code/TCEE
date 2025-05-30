@@ -36,15 +36,15 @@ $$E_{coesão} = -0.10962869$$
 
 > Monóxido de Carbono
 
-<img src="images/C_iso.png" width=498 height=300> 
+<img src="images/C_iso.png"> 
 
 ${E_{ef}}_{C} =  -37.598779037346$
 
-<img src="images/O_iso.png" width=498 height=300> 
+<img src="images/O_iso.png"> 
 
 ${E_{ef}}_{O} =  -74.670628420287$
 
-<img src="images/CO_iso.png" width=498 height=300> 
+<img src="images/CO_iso.png"> 
 
 ${E_{ef}}_{CO} =  -112.756427738892$
 
@@ -81,15 +81,15 @@ $$E_{coesão} = -1.26364771$$
 
 > Água Oxigenada
 
-<img src="images/H_iso.png" width=498 height=300> 
+<img src="images/H_iso.png"> 
 
 ${E_{ef}}_{H} = -0.499334315440
 
-<img src="images/O_iso.png" width=498 height=300> 
+<img src="images/O_iso.png"> 
 
 ${E_{ef}}_{O} = -74.670628420287$
 
-<img src="images/CO_iso.png" width=498 height=300> 
+<img src="images/CO_iso.png"> 
 
 ${E_{ef}}_{H2O2} = -150.806020330003$
 
@@ -97,7 +97,7 @@ Energia de Coesão:
 
 $E_{coesão} = {E_{ef}}_{H2O2} - (2*{E_{ef}}_{H} + 2*{E_{ef}}_{O} = -150.806020330003 - (2*(-0.499334315440) - 2(-74.670628420287))$ 
 
-$E_{coesão} = -0.4660948585490132
+$E_{coesão} = -0.4660948585490132$
 
 Percebe-se que a energia da molécula é menor que a energia dos átomos individualmente, dessa forma a molécula é mais estável que os átomos de H e O sozinhos.
 
