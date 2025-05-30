@@ -1,0 +1,29 @@
+start O
+title "O-Hartree_Fock"
+
+geometry units angstrom
+    O 0.0 0.0 0.0
+end
+
+basis
+    O library aug-cc-pVDZ
+end
+
+scf
+    thresh 1e-10
+end
+
+dplot
+    title O-density
+    limitXYZ
+    -5.0 5.0 100
+    -5.0 5.0 100
+    -5.0 5.0 100
+    spin total
+    gaussian
+    output O-density.cube
+end
+
+task scf optimize
+
+task dplot
