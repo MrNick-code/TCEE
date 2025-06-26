@@ -1,0 +1,37 @@
+&CONTROL
+  calculation = 'scf',
+  title = 'FeSi',
+  prefix = 'fesi-sc',
+  outdir = './tmp/',
+  pseudo_dir = './pseudos/',
+  etot_conv_thr = 1d-5
+/
+
+&SYSTEM
+  ibrav = 1,
+  celldm(1) = 4.40,
+  nat = 2,
+  ntyp = 2,
+  ecutwfc = 45,
+  ecutrho = 360,
+  occupations = 'smearing',
+  smearing = 'mv',
+  degauss = 0.001,
+  nspin = 2,
+  starting_magnetization(1) = 1,
+/
+
+&ELECTRONS
+  conv_thr = 1.0d-8,
+/
+
+ATOMIC_SPECIES
+Fe  55.845  fe_pbe_v1.5.uspp.F.UPF
+Si  28.0855 si_pbe_v1.uspp.F.UPF
+
+ATOMIC_POSITIONS crystal
+Fe  0.863088  0.636912  0.363088
+Si  0.158698  0.341302  0.658698
+
+K_POINTS automatic
+20 20 20 0 0 0
