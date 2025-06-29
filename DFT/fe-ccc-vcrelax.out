@@ -1,5 +1,5 @@
 
-     Program PWSCF v.7.4.1 starts on 28Jun2025 at 19:31:12 
+     Program PWSCF v.7.4.1 starts on 29Jun2025 at 14:20:14 
 
      This program is part of the open-source Quantum ESPRESSO suite
      for quantum simulation of materials; please cite
@@ -11,7 +11,7 @@
      http://www.quantum-espresso.org/quote
 
      Serial version
-     3222 MiB available memory on the printing compute node when the environment starts
+     3330 MiB available memory on the printing compute node when the environment starts
 
      Reading input from fe-ccc-vcrelax.in
 
@@ -46,7 +46,7 @@
      mixing beta               =       0.7000
      number of iterations used =            8  plain     mixing
      energy convergence thresh.=      1.0E-05
-     force convergence thresh. =      1.0E-04
+     force convergence thresh. =      1.0E-03
      press convergence thresh. =      5.0E-01
      Exchange-correlation=  SLA  PW   PBX  PBC
                            (   1   4   3   4   0   0   0)
@@ -125,7 +125,7 @@
      Davidson diagonalization with overlap
      ethr =  1.00E-02,  avg # of iterations =  2.9
 
-     total cpu time spent up to now is        7.3 secs
+     total cpu time spent up to now is        7.6 secs
 
      total energy              =    -249.10028831 Ry
      estimated scf accuracy    <       2.27256815 Ry
@@ -137,7 +137,7 @@
      Davidson diagonalization with overlap
      ethr =  1.00E-02,  avg # of iterations =  2.6
 
-     total cpu time spent up to now is       12.3 secs
+     total cpu time spent up to now is       13.1 secs
 
      total energy              =    -249.28382366 Ry
      estimated scf accuracy    <       6.19713075 Ry
@@ -149,7 +149,7 @@
      Davidson diagonalization with overlap
      ethr =  1.00E-02,  avg # of iterations =  2.0
 
-     total cpu time spent up to now is       16.7 secs
+     total cpu time spent up to now is       17.0 secs
 
      total energy              =    -250.34395725 Ry
      estimated scf accuracy    <       0.00759859 Ry
@@ -173,7 +173,7 @@
      Davidson diagonalization with overlap
      ethr =  1.25E-05,  avg # of iterations =  2.0
 
-     total cpu time spent up to now is       24.9 secs
+     total cpu time spent up to now is       24.2 secs
 
      total energy              =    -250.34608158 Ry
      estimated scf accuracy    <       0.00056514 Ry
@@ -185,7 +185,7 @@
      Davidson diagonalization with overlap
      ethr =  3.53E-06,  avg # of iterations =  1.2
 
-     total cpu time spent up to now is       28.5 secs
+     total cpu time spent up to now is       27.3 secs
 
      total energy              =    -250.34609861 Ry
      estimated scf accuracy    <       0.00061227 Ry
@@ -197,7 +197,7 @@
      Davidson diagonalization with overlap
      ethr =  3.53E-06,  avg # of iterations =  1.1
 
-     total cpu time spent up to now is       32.1 secs
+     total cpu time spent up to now is       30.5 secs
 
      total energy              =    -250.34616062 Ry
      estimated scf accuracy    <       0.00023813 Ry
@@ -209,7 +209,7 @@
      Davidson diagonalization with overlap
      ethr =  1.49E-06,  avg # of iterations =  1.4
 
-     total cpu time spent up to now is       35.7 secs
+     total cpu time spent up to now is       33.5 secs
 
      total energy              =    -250.34619899 Ry
      estimated scf accuracy    <       0.00009923 Ry
@@ -221,7 +221,7 @@
      Davidson diagonalization with overlap
      ethr =  6.20E-07,  avg # of iterations =  1.5
 
-     total cpu time spent up to now is       39.4 secs
+     total cpu time spent up to now is       36.5 secs
 
      total energy              =    -250.34621412 Ry
      estimated scf accuracy    <       0.00002252 Ry
@@ -233,7 +233,7 @@
      Davidson diagonalization with overlap
      ethr =  1.41E-07,  avg # of iterations =  1.5
 
-     total cpu time spent up to now is       43.2 secs
+     total cpu time spent up to now is       39.5 secs
 
      total energy              =    -250.34621744 Ry
      estimated scf accuracy    <       0.00000270 Ry
@@ -245,7 +245,7 @@
      Davidson diagonalization with overlap
      ethr =  1.69E-08,  avg # of iterations =  1.1
 
-     total cpu time spent up to now is       46.9 secs
+     total cpu time spent up to now is       42.4 secs
 
      total energy              =    -250.34621771 Ry
      estimated scf accuracy    <       0.00000176 Ry
@@ -260,7 +260,7 @@
      Magnetic moment per site  (integrated on atomic sphere of radius R)
      atom   1 (R=0.357)  charge= 14.4137  magn=  2.3387
 
-     total cpu time spent up to now is       51.2 secs
+     total cpu time spent up to now is       45.4 secs
 
      End of self-consistent calculation
 
@@ -348,7 +348,7 @@ Fe               0.0000000000        0.0000000000        0.0000000000
      Check: negative core charge=   -0.000042
      Generating pointlists ...
 
-     total cpu time spent up to now is       54.1 secs
+     total cpu time spent up to now is       47.1 secs
 
      Self-consistent Calculation
 
@@ -356,7 +356,7 @@ Fe               0.0000000000        0.0000000000        0.0000000000
      Davidson diagonalization with overlap
      ethr =  1.00E-06,  avg # of iterations =  3.1
 
-     total cpu time spent up to now is       60.2 secs
+     total cpu time spent up to now is       52.6 secs
 
      total energy              =    -250.34629445 Ry
      estimated scf accuracy    <       0.00042380 Ry
@@ -368,7 +368,7 @@ Fe               0.0000000000        0.0000000000        0.0000000000
      Davidson diagonalization with overlap
      ethr =  2.65E-06,  avg # of iterations =  2.2
 
-     total cpu time spent up to now is       65.2 secs
+     total cpu time spent up to now is       57.3 secs
 
      total energy              =    -250.34628699 Ry
      estimated scf accuracy    <       0.00130392 Ry
@@ -380,7 +380,7 @@ Fe               0.0000000000        0.0000000000        0.0000000000
      Davidson diagonalization with overlap
      ethr =  2.65E-06,  avg # of iterations =  2.0
 
-     total cpu time spent up to now is       69.5 secs
+     total cpu time spent up to now is       61.5 secs
 
      total energy              =    -250.34651121 Ry
      estimated scf accuracy    <       0.00001400 Ry
@@ -395,7 +395,7 @@ Fe               0.0000000000        0.0000000000        0.0000000000
      Magnetic moment per site  (integrated on atomic sphere of radius R)
      atom   1 (R=0.357)  charge= 14.4332  magn=  2.2879
 
-     total cpu time spent up to now is       73.2 secs
+     total cpu time spent up to now is       65.2 secs
 
      End of self-consistent calculation
 
@@ -489,7 +489,7 @@ Fe               0.0000000000        0.0000000000        0.0000000000
      Generating pointlists ...
      new r_m :   0.3523 (alat units)  1.9042 (a.u.) for type    1
 
-     total cpu time spent up to now is       75.2 secs
+     total cpu time spent up to now is       66.9 secs
 
      Self-consistent Calculation
 
@@ -497,7 +497,7 @@ Fe               0.0000000000        0.0000000000        0.0000000000
      Davidson diagonalization with overlap
      ethr =  1.00E-06,  avg # of iterations =  3.4
 
-     total cpu time spent up to now is       81.7 secs
+     total cpu time spent up to now is       72.7 secs
 
      total energy              =    -250.34623190 Ry
      estimated scf accuracy    <       0.00045308 Ry
@@ -509,7 +509,7 @@ Fe               0.0000000000        0.0000000000        0.0000000000
      Davidson diagonalization with overlap
      ethr =  2.83E-06,  avg # of iterations =  2.2
 
-     total cpu time spent up to now is       86.7 secs
+     total cpu time spent up to now is       77.4 secs
 
      total energy              =    -250.34620963 Ry
      estimated scf accuracy    <       0.00154438 Ry
@@ -521,7 +521,7 @@ Fe               0.0000000000        0.0000000000        0.0000000000
      Davidson diagonalization with overlap
      ethr =  2.83E-06,  avg # of iterations =  2.0
 
-     total cpu time spent up to now is       91.2 secs
+     total cpu time spent up to now is       81.6 secs
 
      total energy              =    -250.34647534 Ry
      estimated scf accuracy    <       0.00001177 Ry
@@ -533,7 +533,7 @@ Fe               0.0000000000        0.0000000000        0.0000000000
      Davidson diagonalization with overlap
      ethr =  7.35E-08,  avg # of iterations =  2.0
 
-     total cpu time spent up to now is       95.3 secs
+     total cpu time spent up to now is       85.7 secs
 
      total energy              =    -250.34648081 Ry
      estimated scf accuracy    <       0.00000406 Ry
@@ -545,7 +545,7 @@ Fe               0.0000000000        0.0000000000        0.0000000000
      Davidson diagonalization with overlap
      ethr =  2.54E-08,  avg # of iterations =  2.0
 
-     total cpu time spent up to now is       99.6 secs
+     total cpu time spent up to now is       89.2 secs
 
      total energy              =    -250.34648262 Ry
      estimated scf accuracy    <       0.00000059 Ry
@@ -557,7 +557,7 @@ Fe               0.0000000000        0.0000000000        0.0000000000
      Davidson diagonalization with overlap
      ethr =  3.70E-09,  avg # of iterations =  1.9
 
-     total cpu time spent up to now is      103.7 secs
+     total cpu time spent up to now is       92.6 secs
 
      total energy              =    -250.34648276 Ry
      estimated scf accuracy    <       0.00000004 Ry
@@ -572,7 +572,7 @@ Fe               0.0000000000        0.0000000000        0.0000000000
      Magnetic moment per site  (integrated on atomic sphere of radius R)
      atom   1 (R=0.352)  charge= 14.3788  magn=  2.2268
 
-     total cpu time spent up to now is      107.3 secs
+     total cpu time spent up to now is       95.6 secs
 
      End of self-consistent calculation
 
@@ -661,7 +661,7 @@ Fe               0.0000000000        0.0000000000        0.0000000000
      Check: negative core charge=   -0.000043
      Generating pointlists ...
 
-     total cpu time spent up to now is      109.3 secs
+     total cpu time spent up to now is       97.6 secs
 
      Self-consistent Calculation
 
@@ -669,7 +669,7 @@ Fe               0.0000000000        0.0000000000        0.0000000000
      Davidson diagonalization with overlap
      ethr =  1.00E-06,  avg # of iterations =  3.0
 
-     total cpu time spent up to now is      115.2 secs
+     total cpu time spent up to now is      103.5 secs
 
      total energy              =    -250.34648408 Ry
      estimated scf accuracy    <       0.00014640 Ry
@@ -681,7 +681,7 @@ Fe               0.0000000000        0.0000000000        0.0000000000
      Davidson diagonalization with overlap
      ethr =  9.15E-07,  avg # of iterations =  2.2
 
-     total cpu time spent up to now is      120.0 secs
+     total cpu time spent up to now is      108.4 secs
 
      total energy              =    -250.34646467 Ry
      estimated scf accuracy    <       0.00054113 Ry
@@ -693,7 +693,7 @@ Fe               0.0000000000        0.0000000000        0.0000000000
      Davidson diagonalization with overlap
      ethr =  9.15E-07,  avg # of iterations =  2.0
 
-     total cpu time spent up to now is      124.4 secs
+     total cpu time spent up to now is      112.5 secs
 
      total energy              =    -250.34656011 Ry
      estimated scf accuracy    <       0.00000475 Ry
@@ -705,7 +705,7 @@ Fe               0.0000000000        0.0000000000        0.0000000000
      Davidson diagonalization with overlap
      ethr =  2.97E-08,  avg # of iterations =  1.5
 
-     total cpu time spent up to now is      128.3 secs
+     total cpu time spent up to now is      116.3 secs
 
      total energy              =    -250.34656294 Ry
      estimated scf accuracy    <       0.00000057 Ry
@@ -717,7 +717,7 @@ Fe               0.0000000000        0.0000000000        0.0000000000
      Davidson diagonalization with overlap
      ethr =  3.56E-09,  avg # of iterations =  1.6
 
-     total cpu time spent up to now is      132.3 secs
+     total cpu time spent up to now is      120.1 secs
 
      total energy              =    -250.34656300 Ry
      estimated scf accuracy    <       0.00000016 Ry
@@ -729,7 +729,7 @@ Fe               0.0000000000        0.0000000000        0.0000000000
      Davidson diagonalization with overlap
      ethr =  1.02E-09,  avg # of iterations =  2.1
 
-     total cpu time spent up to now is      136.6 secs
+     total cpu time spent up to now is      123.9 secs
 
      total energy              =    -250.34656353 Ry
      estimated scf accuracy    <       0.00000001 Ry
@@ -744,7 +744,7 @@ Fe               0.0000000000        0.0000000000        0.0000000000
      Magnetic moment per site  (integrated on atomic sphere of radius R)
      atom   1 (R=0.352)  charge= 14.3641  magn=  2.2604
 
-     total cpu time spent up to now is      141.0 secs
+     total cpu time spent up to now is      127.8 secs
 
      End of self-consistent calculation
 
@@ -833,7 +833,7 @@ Fe               0.0000000000        0.0000000000        0.0000000000
      Check: negative core charge=   -0.000043
      Generating pointlists ...
 
-     total cpu time spent up to now is      143.0 secs
+     total cpu time spent up to now is      129.6 secs
 
      Self-consistent Calculation
 
@@ -847,7 +847,7 @@ Fe               0.0000000000        0.0000000000        0.0000000000
      Davidson diagonalization with overlap
      ethr =  1.02E-09,  avg # of iterations =  1.0
 
-     total cpu time spent up to now is      151.5 secs
+     total cpu time spent up to now is      137.0 secs
 
      total energy              =    -250.34656377 Ry
      estimated scf accuracy    <       0.00000016 Ry
@@ -859,7 +859,7 @@ Fe               0.0000000000        0.0000000000        0.0000000000
      Davidson diagonalization with overlap
      ethr =  1.02E-09,  avg # of iterations =  2.1
 
-     total cpu time spent up to now is      156.2 secs
+     total cpu time spent up to now is      140.9 secs
 
      total energy              =    -250.34656375 Ry
      estimated scf accuracy    <       0.00000056 Ry
@@ -871,7 +871,7 @@ Fe               0.0000000000        0.0000000000        0.0000000000
      Davidson diagonalization with overlap
      ethr =  1.02E-09,  avg # of iterations =  2.0
 
-     total cpu time spent up to now is      160.4 secs
+     total cpu time spent up to now is      144.5 secs
 
      total energy              =    -250.34656385 Ry
      estimated scf accuracy    <       0.00000001 Ry
@@ -886,7 +886,7 @@ Fe               0.0000000000        0.0000000000        0.0000000000
      Magnetic moment per site  (integrated on atomic sphere of radius R)
      atom   1 (R=0.352)  charge= 14.3637  magn=  2.2619
 
-     total cpu time spent up to now is      164.2 secs
+     total cpu time spent up to now is      147.7 secs
 
      End of self-consistent calculation
 
@@ -979,7 +979,7 @@ Fe               0.0000000000        0.0000000000        0.0000000000
      Check: negative core charge=   -0.000043
      Generating pointlists ...
 
-     total cpu time spent up to now is      166.2 secs
+     total cpu time spent up to now is      149.4 secs
 
      Self-consistent Calculation
 
@@ -996,7 +996,7 @@ Fe               0.0000000000        0.0000000000        0.0000000000
      Magnetic moment per site  (integrated on atomic sphere of radius R)
      atom   1 (R=0.352)  charge= 14.3636  magn=  2.2621
 
-     total cpu time spent up to now is      175.1 secs
+     total cpu time spent up to now is      156.6 secs
 
      End of self-consistent calculation
 
@@ -1087,7 +1087,7 @@ Fe               0.0000000000        0.0000000000        0.0000000000
      Check: negative core charge=   -0.000043
      Generating pointlists ...
 
-     total cpu time spent up to now is      177.4 secs
+     total cpu time spent up to now is      158.3 secs
 
      Self-consistent Calculation
 
@@ -1104,7 +1104,7 @@ Fe               0.0000000000        0.0000000000        0.0000000000
      Magnetic moment per site  (integrated on atomic sphere of radius R)
      atom   1 (R=0.352)  charge= 14.3632  magn=  2.2625
 
-     total cpu time spent up to now is      186.9 secs
+     total cpu time spent up to now is      165.8 secs
 
      End of self-consistent calculation
 
@@ -1195,7 +1195,7 @@ Fe               0.0000000000        0.0000000000        0.0000000000
      Check: negative core charge=   -0.000043
      Generating pointlists ...
 
-     total cpu time spent up to now is      189.0 secs
+     total cpu time spent up to now is      167.8 secs
 
      Self-consistent Calculation
 
@@ -1209,7 +1209,7 @@ Fe               0.0000000000        0.0000000000        0.0000000000
      Davidson diagonalization with overlap
      ethr =  1.45E-10,  avg # of iterations =  1.0
 
-     total cpu time spent up to now is      198.1 secs
+     total cpu time spent up to now is      176.3 secs
 
      total energy              =    -250.34656405 Ry
      estimated scf accuracy    <       0.00000002 Ry
@@ -1221,7 +1221,7 @@ Fe               0.0000000000        0.0000000000        0.0000000000
      Davidson diagonalization with overlap
      ethr =  1.43E-10,  avg # of iterations =  2.1
 
-     total cpu time spent up to now is      203.2 secs
+     total cpu time spent up to now is      180.3 secs
 
      total energy              =    -250.34656405 Ry
      estimated scf accuracy    <       0.00000006 Ry
@@ -1236,7 +1236,7 @@ Fe               0.0000000000        0.0000000000        0.0000000000
      Magnetic moment per site  (integrated on atomic sphere of radius R)
      atom   1 (R=0.352)  charge= 14.3631  magn=  2.2631
 
-     total cpu time spent up to now is      207.8 secs
+     total cpu time spent up to now is      184.3 secs
 
      End of self-consistent calculation
 
@@ -1327,7 +1327,7 @@ Fe               0.0000000000        0.0000000000        0.0000000000
      Check: negative core charge=   -0.000043
      Generating pointlists ...
 
-     total cpu time spent up to now is      210.2 secs
+     total cpu time spent up to now is      186.2 secs
 
      Self-consistent Calculation
 
@@ -1341,7 +1341,7 @@ Fe               0.0000000000        0.0000000000        0.0000000000
      Davidson diagonalization with overlap
      ethr =  1.77E-10,  avg # of iterations =  1.0
 
-     total cpu time spent up to now is      218.4 secs
+     total cpu time spent up to now is      193.9 secs
 
      total energy              =    -250.34656404 Ry
      estimated scf accuracy    <       0.00000003 Ry
@@ -1353,7 +1353,7 @@ Fe               0.0000000000        0.0000000000        0.0000000000
      Davidson diagonalization with overlap
      ethr =  1.73E-10,  avg # of iterations =  2.1
 
-     total cpu time spent up to now is      223.6 secs
+     total cpu time spent up to now is      198.2 secs
 
      total energy              =    -250.34656403 Ry
      estimated scf accuracy    <       0.00000008 Ry
@@ -1368,7 +1368,7 @@ Fe               0.0000000000        0.0000000000        0.0000000000
      Magnetic moment per site  (integrated on atomic sphere of radius R)
      atom   1 (R=0.352)  charge= 14.3628  magn=  2.2636
 
-     total cpu time spent up to now is      228.2 secs
+     total cpu time spent up to now is      202.1 secs
 
      End of self-consistent calculation
 
@@ -1462,7 +1462,7 @@ Fe               0.0000000000        0.0000000000        0.0000000000
      Check: negative core charge=   -0.000043
      Generating pointlists ...
 
-     total cpu time spent up to now is      230.3 secs
+     total cpu time spent up to now is      204.1 secs
 
      Self-consistent Calculation
 
@@ -1476,7 +1476,7 @@ Fe               0.0000000000        0.0000000000        0.0000000000
      Davidson diagonalization with overlap
      ethr =  5.61E-10,  avg # of iterations =  1.0
 
-     total cpu time spent up to now is      238.1 secs
+     total cpu time spent up to now is      212.1 secs
 
      total energy              =    -250.34656386 Ry
      estimated scf accuracy    <       0.00000009 Ry
@@ -1488,7 +1488,7 @@ Fe               0.0000000000        0.0000000000        0.0000000000
      Davidson diagonalization with overlap
      ethr =  5.53E-10,  avg # of iterations =  2.1
 
-     total cpu time spent up to now is      242.8 secs
+     total cpu time spent up to now is      216.5 secs
 
      total energy              =    -250.34656385 Ry
      estimated scf accuracy    <       0.00000029 Ry
@@ -1503,7 +1503,7 @@ Fe               0.0000000000        0.0000000000        0.0000000000
      Magnetic moment per site  (integrated on atomic sphere of radius R)
      atom   1 (R=0.352)  charge= 14.3623  magn=  2.2643
 
-     total cpu time spent up to now is      247.4 secs
+     total cpu time spent up to now is      220.3 secs
 
      End of self-consistent calculation
 
@@ -1561,7 +1561,7 @@ New lattice vectors in NEW alat (for information only):
 Discrepancy in bohr =     0.000000    0.000000    0.000000
 
      bfgs converged in  10 scf cycles and   7 bfgs steps
-     (criteria: energy <  1.0E-05 Ry, force <  1.0E-04 Ry/Bohr, cell <  5.0E-01 kbar)
+     (criteria: energy <  1.0E-05 Ry, force <  1.0E-03 Ry/Bohr, cell <  5.0E-01 kbar)
 
      End of BFGS Geometry Optimization
 
@@ -1681,7 +1681,7 @@ End final coordinates
      starting charge      15.0000, renormalised to      16.0000
      Starting wfcs are   13 randomized atomic wfcs
 
-     total cpu time spent up to now is      251.4 secs
+     total cpu time spent up to now is      223.6 secs
 
      Self-consistent Calculation
 
@@ -1690,7 +1690,7 @@ End final coordinates
      c_bands:  1 eigenvalues not converged
      ethr =  1.00E-06,  avg # of iterations =  9.8
 
-     total cpu time spent up to now is      263.8 secs
+     total cpu time spent up to now is      233.8 secs
 
      total energy              =    -249.05537519 Ry
      estimated scf accuracy    <       2.32766592 Ry
@@ -1702,7 +1702,7 @@ End final coordinates
      Davidson diagonalization with overlap
      ethr =  1.00E-02,  avg # of iterations =  2.7
 
-     total cpu time spent up to now is      268.9 secs
+     total cpu time spent up to now is      238.1 secs
 
      total energy              =    -249.27539583 Ry
      estimated scf accuracy    <       6.28868045 Ry
@@ -1714,7 +1714,7 @@ End final coordinates
      Davidson diagonalization with overlap
      ethr =  1.00E-02,  avg # of iterations =  2.0
 
-     total cpu time spent up to now is      273.8 secs
+     total cpu time spent up to now is      242.9 secs
 
      total energy              =    -250.34469195 Ry
      estimated scf accuracy    <       0.00533895 Ry
@@ -1726,7 +1726,7 @@ End final coordinates
      Davidson diagonalization with overlap
      ethr =  3.34E-05,  avg # of iterations =  2.0
 
-     total cpu time spent up to now is      278.0 secs
+     total cpu time spent up to now is      246.2 secs
 
      total energy              =    -250.34585530 Ry
      estimated scf accuracy    <       0.00167833 Ry
@@ -1738,7 +1738,7 @@ End final coordinates
      Davidson diagonalization with overlap
      ethr =  1.05E-05,  avg # of iterations =  1.8
 
-     total cpu time spent up to now is      282.3 secs
+     total cpu time spent up to now is      249.9 secs
 
      total energy              =    -250.34646792 Ry
      estimated scf accuracy    <       0.00044333 Ry
@@ -1750,7 +1750,7 @@ End final coordinates
      Davidson diagonalization with overlap
      ethr =  2.77E-06,  avg # of iterations =  1.4
 
-     total cpu time spent up to now is      286.2 secs
+     total cpu time spent up to now is      253.1 secs
 
      total energy              =    -250.34652090 Ry
      estimated scf accuracy    <       0.00009268 Ry
@@ -1762,7 +1762,7 @@ End final coordinates
      Davidson diagonalization with overlap
      ethr =  5.79E-07,  avg # of iterations =  1.8
 
-     total cpu time spent up to now is      290.4 secs
+     total cpu time spent up to now is      257.1 secs
 
      total energy              =    -250.34653776 Ry
      estimated scf accuracy    <       0.00003896 Ry
@@ -1774,7 +1774,7 @@ End final coordinates
      Davidson diagonalization with overlap
      ethr =  2.44E-07,  avg # of iterations =  1.5
 
-     total cpu time spent up to now is      294.4 secs
+     total cpu time spent up to now is      260.7 secs
 
      total energy              =    -250.34654356 Ry
      estimated scf accuracy    <       0.00000099 Ry
@@ -1786,7 +1786,7 @@ End final coordinates
      Davidson diagonalization with overlap
      ethr =  6.16E-09,  avg # of iterations =  1.7
 
-     total cpu time spent up to now is      298.4 secs
+     total cpu time spent up to now is      264.1 secs
 
      total energy              =    -250.34654410 Ry
      estimated scf accuracy    <       0.00000072 Ry
@@ -1798,7 +1798,7 @@ End final coordinates
      Davidson diagonalization with overlap
      ethr =  4.52E-09,  avg # of iterations =  1.3
 
-     total cpu time spent up to now is      302.5 secs
+     total cpu time spent up to now is      267.0 secs
 
      total energy              =    -250.34654413 Ry
      estimated scf accuracy    <       0.00000011 Ry
@@ -1813,7 +1813,7 @@ End final coordinates
      Magnetic moment per site  (integrated on atomic sphere of radius R)
      atom   1 (R=0.352)  charge= 14.3623  magn=  2.2645
 
-     total cpu time spent up to now is      306.8 secs
+     total cpu time spent up to now is      270.2 secs
 
      End of self-consistent calculation
 
@@ -1855,51 +1855,51 @@ End final coordinates
      Writing all to output data dir ./tmp/Fe-CCC.save/ :
      XML data file, charge density, pseudopotentials, collected wavefunctions
 
-     init_run     :      3.80s CPU      4.00s WALL (       2 calls)
-     electrons    :    270.08s CPU    280.76s WALL (      11 calls)
-     update_pot   :      0.33s CPU      0.38s WALL (       9 calls)
-     forces       :      4.65s CPU      4.98s WALL (      11 calls)
-     stress       :     17.08s CPU     17.67s WALL (      11 calls)
+     init_run     :      3.54s CPU      3.77s WALL (       2 calls)
+     electrons    :    231.86s CPU    248.00s WALL (      11 calls)
+     update_pot   :      0.26s CPU      0.30s WALL (       9 calls)
+     forces       :      3.37s CPU      3.56s WALL (      11 calls)
+     stress       :     14.52s CPU     15.46s WALL (      11 calls)
 
      Called by init_run:
-     wfcinit      :      3.14s CPU      3.28s WALL (       2 calls)
-     potinit      :      0.11s CPU      0.12s WALL (       2 calls)
-     hinit0       :      0.44s CPU      0.45s WALL (       2 calls)
+     wfcinit      :      2.89s CPU      3.06s WALL (       2 calls)
+     potinit      :      0.10s CPU      0.13s WALL (       2 calls)
+     hinit0       :      0.42s CPU      0.45s WALL (       2 calls)
 
      Called by electrons:
-     c_bands      :    229.19s CPU    238.30s WALL (      62 calls)
-     sum_band     :     36.54s CPU     38.00s WALL (      62 calls)
-     v_of_rho     :      1.89s CPU      1.96s WALL (      67 calls)
-     newd         :      2.96s CPU      3.06s WALL (      67 calls)
-     mix_rho      :      0.10s CPU      0.11s WALL (      62 calls)
+     c_bands      :    198.43s CPU    211.77s WALL (      62 calls)
+     sum_band     :     30.33s CPU     32.81s WALL (      62 calls)
+     v_of_rho     :      1.58s CPU      1.72s WALL (      67 calls)
+     newd         :      1.97s CPU      2.16s WALL (      67 calls)
+     mix_rho      :      0.09s CPU      0.09s WALL (      62 calls)
 
      Called by c_bands:
-     init_us_2    :      6.55s CPU      6.88s WALL (   74000 calls)
-     cegterg      :    218.69s CPU    227.12s WALL (   31000 calls)
+     init_us_2    :      5.41s CPU      5.80s WALL (   74000 calls)
+     cegterg      :    189.39s CPU    201.97s WALL (   31000 calls)
 
      Called by *egterg:
-     cdiaghg      :     12.79s CPU     13.26s WALL (   85305 calls)
-     h_psi        :    162.94s CPU    169.44s WALL (   93805 calls)
-     s_psi        :      7.24s CPU      7.56s WALL (   93805 calls)
-     g_psi        :      0.85s CPU      0.88s WALL (   61805 calls)
+     cdiaghg      :     10.96s CPU     11.69s WALL (   85305 calls)
+     h_psi        :    140.85s CPU    150.28s WALL (   93805 calls)
+     s_psi        :      6.40s CPU      6.83s WALL (   93805 calls)
+     g_psi        :      0.75s CPU      0.79s WALL (   61805 calls)
 
      Called by h_psi:
-     h_psi:calbec :      8.78s CPU      9.12s WALL (   93805 calls)
-     vloc_psi     :    145.02s CPU    150.78s WALL (   93805 calls)
-     add_vuspsi   :      7.53s CPU      7.83s WALL (   93805 calls)
+     h_psi:calbec :      7.44s CPU      7.93s WALL (   93805 calls)
+     vloc_psi     :    125.64s CPU    134.02s WALL (   93805 calls)
+     add_vuspsi   :      6.54s CPU      7.01s WALL (   93805 calls)
 
      General routines
-     calbec       :     21.05s CPU     22.08s WALL (  218305 calls)
-     fft          :      0.78s CPU      0.80s WALL (    2114 calls)
-     ffts         :      0.03s CPU      0.03s WALL (     258 calls)
-     fftw         :    139.98s CPU    145.33s WALL ( 2252234 calls)
-     interpolate  :      0.08s CPU      0.08s WALL (     134 calls)
+     calbec       :     17.56s CPU     18.70s WALL (  218305 calls)
+     fft          :      0.62s CPU      0.67s WALL (    2114 calls)
+     ffts         :      0.02s CPU      0.02s WALL (     258 calls)
+     fftw         :    122.98s CPU    131.37s WALL ( 2252234 calls)
+     interpolate  :      0.06s CPU      0.06s WALL (     134 calls)
 
 
-     PWSCF        :   4m56.69s CPU   5m 8.95s WALL
+     PWSCF        :   4m14.09s CPU   4m31.94s WALL
 
 
-   This run was terminated on:  19:36:21  28Jun2025            
+   This run was terminated on:  14:24:46  29Jun2025            
 
 =------------------------------------------------------------------------------=
    JOB DONE.
