@@ -131,6 +131,13 @@ Percebe-se que a energia da molécula é menor que a energia dos átomos individ
 ### Relaxação da estrutura e energia de formação
 
 
+
+> Formação do FeSi-B2
+
+$$E_{coesão} = E_{FeSi} - \(E_{Fe} + E_{Si}\)$$
+$$E_{coesão} = -250.34654415 - \(-19.19347166 + -260.01217159\)$$
+$$E_{coesão} = 28.8590991 Ry$$
+
 ### Superfície e energia de Fermi
 
 
