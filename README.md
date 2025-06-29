@@ -122,3 +122,18 @@ $$E_{coesão} = -0.4660948585490132$$
 Percebe-se que a energia da molécula é menor que a energia dos átomos individualmente, dessa forma a molécula é mais estável que os átomos de H e O sozinhos.
 
 ---
+
+## Trabalho 2: DFT - Análise do FeSi-B2 pelo Quantum Espresso 
+
+### Convergência da energia de corte para ondas planas
+
+
+### Relaxação da estrutura e energia de formação
+
+
+### Superfície e energia de Fermi
+
+
+### Densidade de estados e estrutura de bandas
+
+
