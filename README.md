@@ -128,7 +128,7 @@ Percebe-se que a energia da molécula é menor que a energia dos átomos individ
 ### Convergência da energia de corte para ondas planas
 
 
-### Relaxação da estrutura e energia de formação
+### Relaxação da estrutura e formação do composto
 
 
 
