@@ -134,19 +134,28 @@ Percebe-se que a energia da molécula é menor que a energia dos átomos individ
 
 ### Relaxação da estrutura e estabilidade do composto
 
+> Relaxação através do vc-relax para ecutwfc = 40
+
 <img src="images-2/vcrelaxFeSi.png">
 
 > Formação do FeSi-B2
 
-$$E_{formação} = E_{FeSi} - \(E_{Fe} + E_{Si}\)$$
-$$E_{formação} = -250.34654415 - \(-19.19347166 + -260.01217159\)$$
-$$E_{formação} = 28.8590991 Ry$$
+$$E_{formação}^{FeSi} = E_{FeSi\(B2\)} - \(E_{Fe\(ccc\)} + E_{Si\(diamente\)}\)$$
+$$E_{formação}^{FeSi} = -250.34654415 - \(-19.19347166 + -260.01217159\)$$
+$$E_{formação}^{FeSi} = 28.8590991 Ry$$
 
-Não existe expontâneamente.
+Extrutura não existe expontaneamente. 
+
+<img src="images-2/FeSi-B2.png">
+
 
 ### Superfície e energia de Fermi
 
+<img src="images-2/fs_xcrysden.png">
 
 ### Densidade de estados e estrutura de bandas
 
+<img src="images-2/bandas_xcrysden.png">
+<img src="images-2/bands+dos.png">
 
+---
