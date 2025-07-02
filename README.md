@@ -155,6 +155,9 @@ Extrutura não existe expontaneamente.
 
 ### Estrutura de bandas e densidade de estados
 
+<img src="images-2/bandas_xcrysden.png">
+<img src="images-2/fs_xcrysden.png">
 <img src="images-2/bands+dos.png">
+<img src="images-2/bands+dos_nscf.png">
 
 ---
