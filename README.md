@@ -149,12 +149,9 @@ Extrutura não existe expontaneamente.
 <img src="images-2/FeSi-B2.png">
 
 
-### Superfície e energia de Fermi
+### Superfície e energia de Fermi, estrutura de bandas e densidade de estados
 
 <img src="images-2/fs_xcrysden.png">
-
-### Densidade de estados e estrutura de bandas
-
 <img src="images-2/bandas_xcrysden.png">
 <img src="images-2/bands+dos.png">
 
