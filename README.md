@@ -127,16 +127,22 @@ Percebe-se que a energia da molécula é menor que a energia dos átomos individ
 
 ### Convergência da energia de corte para ondas planas
 
+> Teste de convergência utilizando o Fe
 
-### Relaxação da estrutura e formação do composto
+<img src="images-2/Fe-MP.png">
+<img src="images-2/ecutwfc.png">
 
+### Relaxação da estrutura e estabilidade do composto
 
+<img src="images-2/vcrelaxFeSi.png">
 
 > Formação do FeSi-B2
 
-$$E_{coesão} = E_{FeSi} - \(E_{Fe} + E_{Si}\)$$
-$$E_{coesão} = -250.34654415 - \(-19.19347166 + -260.01217159\)$$
-$$E_{coesão} = 28.8590991 Ry$$
+$$E_{formação} = E_{FeSi} - \(E_{Fe} + E_{Si}\)$$
+$$E_{formação} = -250.34654415 - \(-19.19347166 + -260.01217159\)$$
+$$E_{formação} = 28.8590991 Ry$$
+
+Não existe expontâneamente.
 
 ### Superfície e energia de Fermi
 
