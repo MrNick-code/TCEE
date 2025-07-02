@@ -138,6 +138,10 @@ Percebe-se que a energia da molécula é menor que a energia dos átomos individ
 
 <img src="images-2/vcrelaxFeSi.png">
 
+Fe:   a = 5,305455373809292 Bohr
+Si:   a = 10,38494448552798 Bohr
+Fesi: a = 10,51192202201287 Bohr
+
 > Formação do FeSi-B2
 
 $$E_{formação}^{FeSi} = E_{FeSi\(B2\)} - \(E_{Fe\(ccc\)} + E_{Si\(diamente\)}\)$$
