@@ -134,7 +134,7 @@ Percebe-se que a energia da molécula é menor que a energia dos átomos individ
 
 ### Relaxação da estrutura e estabilidade do composto
 
-> Relaxação através do vc-relax para ecutwfc = 40
+> Relaxação do FeSi-B2 através do vc-relax para ecutwfc = 40
 
 <img src="images-2/vcrelaxFeSi.png">
 
